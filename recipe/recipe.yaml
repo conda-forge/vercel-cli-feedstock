@@ -1,5 +1,5 @@
 context:
-  version: "41.1.0"
+  version: "41.1.2"
 
 package:
   name: vercel-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/vercel/-/vercel-${{ version }}.tgz
-  sha256: b9d3fb60bf9f1675ce706a0f8a79162c8ca0bbb09d9d1c512a52518c06b23c0f
+  sha256: 5d61b254ad50037153b937cf5933f75ecb5073c650f01fd80175024291d04647
 
 build:
   noarch: generic
